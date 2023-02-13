@@ -40,6 +40,6 @@ public class BankService {
      * @return the user's balance.
      */
     public double getBalance(){
-        return balance;
+        return this.balance;
     }
 }
